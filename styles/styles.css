@@ -1,0 +1,20 @@
+.profile-pic{
+display:block;
+}
+
+
+.kitten-title{
+	color:lightpink;
+	font-family:calibri;
+	font-size:33;
+}
+
+body{
+	background-color: #ffd8f9;
+}
+
+p{
+color:thistle;
+font-family: calibri;
+font-size: 33;
+}
